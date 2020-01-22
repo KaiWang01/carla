@@ -14,6 +14,9 @@
 #include "carla/road/element/RoadInfoMarkRecord.h"
 #include "carla/road/element/Waypoint.h"
 
+//#include <boost/geometry.hpp>
+//#include <boost/geometry/geometries/point.hpp>
+//#include <boost/geometry/index/rtree.hpp>
 #include <boost/optional.hpp>
 
 #include <vector>
@@ -121,6 +124,15 @@ namespace road {
 private:
 
     MapData _data;
+
+    //namespace bg = boost::geometry;
+    //namespace bgi = boost::geometry::index;
+
+    /*struct rtreecontent{
+      LaneId lid;
+      RoadId rid;
+    };*/
+    //bgi::rtree rtree;
   };
 
 } // namespace road
