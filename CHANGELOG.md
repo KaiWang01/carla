@@ -1,4 +1,6 @@
 ## latest
+  * Added support for new geometry: spiral
+  * Added support for closest waypoint search for all geometries.
   * Added new methods to BoundingBox: contains, get_local_vertices and get_world_vertices.
   * New weather system: night time, fog, rain ripples, and now wind affects vegetation and rain (not car physics)
   * Fixed Low/Epic quality settings transition
