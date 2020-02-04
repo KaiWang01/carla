@@ -33,7 +33,7 @@ CARLA forum</a>
   * __Ubuntu 16.04 or later:__ Currently migrating to Ubuntu 18, but there is support up to Ubuntu 16.04.
   * __30GB disk space:__ Installing all the software needed and CARLA itself will require quite a lot of space, especially Unreal Engine. Make sure to have at least 30GB of free disk space.
   * __An adequate GPU:__ CARLA aims for realistic simulations, so the server needs at least a 4GB GPU. A dedicated GPU is highly recommended for machine learning. 
-  * __Two TCP ports and good internet connection:__ 2000 and 1 by default. Be sure neither firewall nor any other application are blocking these. 
+  * __Two TCP ports and good internet connection:__ 2000 and 2001 by default. Be sure neither firewall nor any other application are blocking these. 
 
 
 <h4>Dependencies</h4>

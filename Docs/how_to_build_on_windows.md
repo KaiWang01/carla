@@ -26,7 +26,7 @@ CARLA forum</a>
   * __x64 system:__ The simulator should run in any Windows system currently available as long as it is a 64 bits OS. 
   * __30GB disk space:__ Installing all the software needed and CARLA itself will require quite a lot of space, especially Unreal Engine. Make sure to have at least 30GB of free disk space.  
   * __An adequate GPU:__ CARLA aims for realistic simulations, so the server needs at least a 4GB GPU. A dedicated GPU is highly recommended for machine learning. 
-  * __Two TCP ports and good internet connection:__ 2000 and 1 by default. Be sure neither firewall nor any other application are blocking these. 
+  * __Two TCP ports and good internet connection:__ 2000 and 2001 by default. Be sure neither firewall nor any other application are blocking these. 
 ---
 ##Necessary software
 <h4>Minor installations</h4>
